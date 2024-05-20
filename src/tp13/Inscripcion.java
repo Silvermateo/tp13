@@ -1,5 +1,5 @@
 
-package new13;
+package tp13;
 
 
 public class Inscripcion {
